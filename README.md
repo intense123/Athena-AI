@@ -1,4 +1,4 @@
-**Athena AI - iOS Chatbot App**
+# **Athena AI - iOS Chatbot App**
 
 Athena AI is an iOS chatbot app built using SwiftUI and the Google Gemini APIs. This app allows users to interact with an AI chatbot by sending text prompts and receiving responses based on the user input. It leverages the Gemini Pro model provided by Google for generating AI-powered responses.
 
